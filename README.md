@@ -49,3 +49,6 @@ http://edu.csdn.net/course/detail/944
 //bootstrap3可视化布局系统,layoutit,可视化布局
 http://www.layoutit.cn/v3/index.html
 https://github.com/longzitianya/generator-yeomanGulp.git
+
+//自动化构建教程
+http://www.zuojj.com/archives/1304.html
